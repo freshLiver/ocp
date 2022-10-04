@@ -1,0 +1,3 @@
+[submodule "source/software"]
+	path = source/software
+	url = git@github.com:freshLiver/ocp-fw.git
